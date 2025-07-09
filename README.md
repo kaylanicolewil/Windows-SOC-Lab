@@ -34,7 +34,7 @@ This project was great for practicing log analysis, threat detection, and SOC op
 
    <img width="560" alt="image" src="https://github.com/user-attachments/assets/8a4531ab-0329-4624-baa7-a8cad1320f9f" />
 
-4) Created a Log Repository then connected it to my VM to forward the logs to it.
+4) Created a Log Repository using Log Analytics Workspace then connected it to my VM so the logs would be forwarded to the repository. A data collection rule was created to allow me to access the VM logs inside of the SIEM.
 
    <img width="1440" alt="image" src="https://github.com/user-attachments/assets/d32f8f5b-79bc-44c8-8dad-dae39f29fde1" />
 
